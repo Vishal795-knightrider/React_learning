@@ -1,1 +1,2 @@
 1. javascript ke through aap HTML ke element  ko render kr sakte ho
+2.<button onclick={addvalue}  <-yaha hmne refrence pass kiya  yeh (addvalue())n pass nhi  kiya varna execute ho jayega humhe button click krne pas execute karana hai
