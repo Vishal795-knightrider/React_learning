@@ -1,0 +1,1 @@
+1. javascript ke through aap HTML ke element  ko render kr sakte ho
