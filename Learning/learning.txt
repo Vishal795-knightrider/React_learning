@@ -1,2 +1,3 @@
 1. javascript ke through aap HTML ke element  ko render kr sakte ho
 2.<button onclick={addvalue}  <-yaha hmne refrence pass kiya  yeh (addvalue())n pass nhi  kiya varna execute ho jayega humhe button click krne pas execute karana hai
+3.reconciliation : the algorithm uses to differnetiate one tree (dom browser tree) with another (react tree made by .createRoot()) to determine which parts to be changed
